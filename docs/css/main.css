@@ -53,12 +53,12 @@
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
     .menu-branding .portrait {
-      width: 500px;
-      height: 500px;
-      background: url("../img/logoBlackText.png");
+      width: 290px;
+      height: 290px;
+      background: url("../img/logoBlack.png");
       background-repeat: no-repeat;
       background-position: center;
-      border-radius: 50%;
+      border-radius: 65%;
       border: solid 3px #eece1a; }
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
