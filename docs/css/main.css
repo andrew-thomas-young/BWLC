@@ -55,9 +55,10 @@
     .menu-branding .portrait {
       width: 350px;
       height: 350px;
-      background: url("../img/logo.png");
+      background: url("../img/logoText_300px.png");
       background-repeat: no-repeat;
       background-position: center;
+      background-color: #000;
       border-radius: 50%;
       /* border: solid 3px #eece1a;  */
     }
