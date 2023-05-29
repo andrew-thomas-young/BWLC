@@ -274,7 +274,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/logo.png");
+      background: url("../img/logoText_250px.png");
       background-repeat: no-repeat;
       background-size: contain;
       width: 150px;
